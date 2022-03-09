@@ -1,3 +1,4 @@
+# Hi i'm Ahmet 
 - 👀 I’m interested in mobile app and web development
 - 🌱 I’m currently learning java and react
 - 📫 You can reach me on linkedin profile in/abekcio
