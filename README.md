@@ -1,7 +1,7 @@
 # Hi i'm Ahmet 
-- 👀 I’m interested in mobile app and web development
-- 🌱 I’m currently learning java and react
-- 📫 You can reach me on linkedin profile in/abekcio
+- 👀 I’m interested in web development and mobile app.
+- 🌱 I’m currently learning Java, Springboot and React.
+- 📫 You can reach me: ahmetbekciogullari@gmail.com
 - 🤞 P.S. my real job is civil/structural engineering and i'm new on this development stuff :)
 
 <!---
